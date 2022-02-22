@@ -1,1 +1,1 @@
-# w1-d2-basic-golang
+# Day 2 Basic Golang

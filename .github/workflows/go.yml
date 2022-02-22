@@ -18,6 +18,6 @@ jobs:
       with:
         go-version: 1.17
     - name: Test
-      run: go test zgunz/goday1/submission -v ./...
+      run: go test github.com/ALTA-BE7-I-Kadek-Adi-Gunawan/w1-d2-basic-golang/submission -v ./...
   
 

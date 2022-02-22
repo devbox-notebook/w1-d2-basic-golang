@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"zgunz/goday1/submission"
+
+	"github.com/ALTA-BE7-I-Kadek-Adi-Gunawan/w1-d2-basic-golang/submission"
 )
 
 func main() {

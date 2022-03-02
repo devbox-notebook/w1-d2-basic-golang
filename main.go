@@ -11,7 +11,7 @@ func main() {
 	// soal 1
 	nama := "Kobar"
 
-	message := submission.Hello(nama)
+	message, _ := submission.Hello(nama)
 
 	fmt.Println(message)
 

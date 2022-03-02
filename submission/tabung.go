@@ -1,5 +1,7 @@
 package submission
 
+import "math"
+
 func LuasPermukaanTabung(r, t float64) float64 {
-	return 2 * 3.14 * r * (r + t)
+	return 2 * math.Pi * r * (r + t)
 }

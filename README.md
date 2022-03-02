@@ -1,3 +1,6 @@
+[![Go](https://github.com/ALTA-BE7-I-Kadek-Adi-Gunawan/w1-d2-basic-golang/actions/workflows/go.yml/badge.svg)](https://github.com/ALTA-BE7-I-Kadek-Adi-Gunawan/w1-d2-basic-golang/actions/workflows/go.yml)
+
+
 # Day 2 Basic Golang
 
 ## Running test
